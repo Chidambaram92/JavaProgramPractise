@@ -1,6 +1,6 @@
 package com.pack.testtwo;
 
-public class program 
+public class DoWhileProgram 
 {
 	  public static void main(String args[]){
 	         int arr[]={2,11,45,9};
